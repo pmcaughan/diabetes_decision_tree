@@ -1,0 +1,26 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Node	node.py	/^class Node:$/;"	c
+Tree	tree.py	/^class Tree:$/;"	c
+__init__	node.py	/^    def __init__(self, condition=None, left=None, right=None, attribute=None, outcome=None):$/;"	m	class:Node
+__init__	tree.py	/^    def __init__(self, root=node.Node(), max_depth=9, min_impurity=0.0):$/;"	m	class:Tree
+condition_impurity	gini.py	/^def condition_impurity(df, lam):$/;"	f
+create	tree.py	/^    def create(self, df):$/;"	m	class:Tree
+decider	main.py	/^decider = tree.Tree()$/;"	v
+df	main.py	/^df = pd.read_csv("diabetes.csv")$/;"	v
+evaluate	tree.py	/^    def evaluate(self, series):$/;"	m	class:Tree
+find_attribute	node.py	/^def find_attribute(df):$/;"	f
+gini_gain	gini.py	/^def gini_gain(df, lam):$/;"	f
+guess	main.py	/^    guess = decider.evaluate(row)$/;"	v
+impurity	gini.py	/^def impurity(df):$/;"	f
+num_correct	main.py	/^num_correct = 0$/;"	v
+num_wrong	main.py	/^num_wrong = 0$/;"	v
+recursive_create	node.py	/^    def recursive_create(self, df, height, min_impurity):$/;"	m	class:Node
+recursive_evaluate	node.py	/^    def recursive_evaluate(self, series):$/;"	m	class:Node
+test	other.py	/^def test():$/;"	f
+test_df	main.py	/^test_df = df.drop(train_df.index)$/;"	v
+train_df	main.py	/^train_df = df.sample(frac=0.8,random_state=200)$/;"	v
