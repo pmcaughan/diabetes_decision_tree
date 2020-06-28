@@ -15,7 +15,11 @@ decider.create(train_df)
 num_correct = 0
 num_wrong = 0
 
-for item, row in df.iterrows():
+print(test_df)
+
+for item, row in test_df.iterrows():
+    print(" --- ")
+    print(row)
     guess = decider.evaluate(row)
     print("I think :", guess)
     print("\t- Real value:", bool(row['Outcome']))
