@@ -1,0 +1,2418 @@
+Starting Tree Creation
+Creating Node
+	Input df size = 614
+	Input Impurity = 0.44151131576992864
+	Node Height = 10
+	Input df = False
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 301
+	Input Impurity = 0.49840509486650264
+	Node Height = 9
+	Input df = True
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 148
+	Input Impurity = 0.44293279766252724
+	Node Height = 8
+	Input df = True
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 73
+	Input Impurity = 0.3100018765246763
+	Node Height = 7
+	Input df = True
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 36
+	Input Impurity = 0.1975308641975309
+	Node Height = 6
+	Input df = True
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 18
+	Input Impurity = 0.345679012345679
+	Node Height = 5
+	Input df = True
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 8
+	Input Impurity = 0.46875
+	Node Height = 4
+	Input df = True
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 3
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 10
+	Input Impurity = 0.17999999999999994
+	Node Height = 4
+	Input df = True
+	Attribute = Pregnancies
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444445
+	Node Height = 3
+	Input df = True
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 37
+	Input Impurity = 0.3944485025566107
+	Node Height = 6
+	Input df = True
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 18
+	Input Impurity = 0.2777777777777777
+	Node Height = 5
+	Input df = True
+	Attribute = SkinThickness
+Node Created.
+
+Creating Node
+	Input df size = 9
+	Input Impurity = 0.4444444444444445
+	Node Height = 4
+	Input df = True
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.5
+	Node Height = 3
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.31999999999999984
+	Node Height = 3
+	Input df = True
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 19
+	Input Impurity = 0.4653739612188366
+	Node Height = 5
+	Input df = True
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 8
+	Input Impurity = 0.46875
+	Node Height = 4
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 3
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.5
+	Node Height = 3
+	Input df = False
+	Attribute = Pregnancies
+Node Created.
+
+Creating Node
+	Input df size = 11
+	Input Impurity = 0.2975206611570247
+	Node Height = 4
+	Input df = True
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 6
+	Input Impurity = 0.4444444444444445
+	Node Height = 3
+	Input df = True
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444444
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 75
+	Input Impurity = 0.4977777777777777
+	Node Height = 7
+	Input df = True
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 37
+	Input Impurity = 0.47041636230825423
+	Node Height = 6
+	Input df = True
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 17
+	Input Impurity = 0.2906574394463668
+	Node Height = 5
+	Input df = True
+	Attribute = Pregnancies
+Node Created.
+
+Creating Node
+	Input df size = 6
+	Input Impurity = 0.4444444444444445
+	Node Height = 4
+	Input df = True
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444444
+	Node Height = 3
+	Input df = False
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 11
+	Input Impurity = 0.1652892561983472
+	Node Height = 4
+	Input df = True
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.31999999999999984
+	Node Height = 3
+	Input df = True
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 20
+	Input Impurity = 0.49499999999999994
+	Node Height = 5
+	Input df = False
+	Attribute = Pregnancies
+Node Created.
+
+Creating Node
+	Input df size = 6
+	Input Impurity = 0.2777777777777777
+	Node Height = 4
+	Input df = True
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444445
+	Node Height = 3
+	Input df = True
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 14
+	Input Impurity = 0.40816326530612246
+	Node Height = 4
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 7
+	Input Impurity = 0.489795918367347
+	Node Height = 3
+	Input df = False
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 2
+	Input df = True
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 7
+	Input Impurity = 0.24489795918367352
+	Node Height = 3
+	Input df = False
+	Attribute = Pregnancies
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 38
+	Input Impurity = 0.49445983379501374
+	Node Height = 6
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 17
+	Input Impurity = 0.45674740484429066
+	Node Height = 5
+	Input df = True
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 8
+	Input Impurity = 0.5
+	Node Height = 4
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 3
+	Input df = True
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 3
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 9
+	Input Impurity = 0.345679012345679
+	Node Height = 4
+	Input df = True
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 6
+	Input Impurity = 0.4444444444444445
+	Node Height = 3
+	Input df = True
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444444
+	Node Height = 2
+	Input df = False
+	Attribute = SkinThickness
+Node Created.
+
+Creating Node
+	Input df size = 21
+	Input Impurity = 0.40816326530612246
+	Node Height = 5
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 7
+	Input Impurity = 0.48979591836734704
+	Node Height = 4
+	Input df = True
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444444
+	Node Height = 3
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 3
+	Input df = True
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 14
+	Input Impurity = 0.24489795918367352
+	Node Height = 4
+	Input df = False
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 6
+	Input Impurity = 0.4444444444444444
+	Node Height = 3
+	Input df = False
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444445
+	Node Height = 2
+	Input df = True
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 153
+	Input Impurity = 0.47673971549404087
+	Node Height = 8
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 76
+	Input Impurity = 0.49688365650969524
+	Node Height = 7
+	Input df = True
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 35
+	Input Impurity = 0.40816326530612246
+	Node Height = 6
+	Input df = True
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 17
+	Input Impurity = 0.20761245674740492
+	Node Height = 5
+	Input df = True
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 9
+	Input Impurity = 0.345679012345679
+	Node Height = 4
+	Input df = True
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.5
+	Node Height = 3
+	Input df = False
+	Attribute = SkinThickness
+Node Created.
+
+Creating Node
+	Input df size = 18
+	Input Impurity = 0.49382716049382713
+	Node Height = 5
+	Input df = True
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 8
+	Input Impurity = 0.375
+	Node Height = 4
+	Input df = True
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.5
+	Node Height = 3
+	Input df = False
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 10
+	Input Impurity = 0.48
+	Node Height = 4
+	Input df = False
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.31999999999999984
+	Node Height = 3
+	Input df = True
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 41
+	Input Impurity = 0.47590719809637116
+	Node Height = 6
+	Input df = False
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 20
+	Input Impurity = 0.495
+	Node Height = 5
+	Input df = True
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 10
+	Input Impurity = 0.48
+	Node Height = 4
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.48
+	Node Height = 3
+	Input df = True
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444444
+	Node Height = 2
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.31999999999999984
+	Node Height = 3
+	Input df = False
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 10
+	Input Impurity = 0.42000000000000004
+	Node Height = 4
+	Input df = True
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.31999999999999984
+	Node Height = 3
+	Input df = True
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.48
+	Node Height = 3
+	Input df = True
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 21
+	Input Impurity = 0.36281179138322006
+	Node Height = 5
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 10
+	Input Impurity = 0.48
+	Node Height = 4
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.48
+	Node Height = 3
+	Input df = True
+	Attribute = SkinThickness
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.31999999999999984
+	Node Height = 3
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 11
+	Input Impurity = 0.16528925619834722
+	Node Height = 4
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 6
+	Input Impurity = 0.2777777777777777
+	Node Height = 3
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444444
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 77
+	Input Impurity = 0.3717321639399561
+	Node Height = 7
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 38
+	Input Impurity = 0.4778393351800554
+	Node Height = 6
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 19
+	Input Impurity = 0.4986149584487535
+	Node Height = 5
+	Input df = True
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 6
+	Input Impurity = 0.4444444444444444
+	Node Height = 4
+	Input df = False
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 3
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 3
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 13
+	Input Impurity = 0.47337278106508873
+	Node Height = 4
+	Input df = True
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.31999999999999984
+	Node Height = 3
+	Input df = True
+	Attribute = SkinThickness
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 8
+	Input Impurity = 0.5
+	Node Height = 3
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 2
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 2
+	Input df = True
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 19
+	Input Impurity = 0.38781163434903054
+	Node Height = 5
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 9
+	Input Impurity = 0.49382716049382713
+	Node Height = 4
+	Input df = False
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 3
+	Input df = True
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.31999999999999984
+	Node Height = 3
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 10
+	Input Impurity = 0.17999999999999994
+	Node Height = 4
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.31999999999999984
+	Node Height = 3
+	Input df = False
+	Attribute = Pregnancies
+Node Created.
+
+Creating Node
+	Input df size = 39
+	Input Impurity = 0.1840894148586456
+	Node Height = 6
+	Input df = False
+	Attribute = Pregnancies
+Node Created.
+
+Creating Node
+	Input df size = 19
+	Input Impurity = 0.2659279778393353
+	Node Height = 5
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 9
+	Input Impurity = 0.19753086419753085
+	Node Height = 4
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.31999999999999984
+	Node Height = 3
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 10
+	Input Impurity = 0.31999999999999984
+	Node Height = 4
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.48
+	Node Height = 3
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 20
+	Input Impurity = 0.09500000000000008
+	Node Height = 5
+	Input df = False
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 9
+	Input Impurity = 0.19753086419753085
+	Node Height = 4
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 3
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 313
+	Input Impurity = 0.23701374924721086
+	Node Height = 9
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 151
+	Input Impurity = 0.3415639664926977
+	Node Height = 8
+	Input df = False
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 74
+	Input Impurity = 0.4284149013878744
+	Node Height = 7
+	Input df = False
+	Attribute = Pregnancies
+Node Created.
+
+Creating Node
+	Input df size = 32
+	Input Impurity = 0.4921875
+	Node Height = 6
+	Input df = False
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 16
+	Input Impurity = 0.4921875
+	Node Height = 5
+	Input df = True
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 8
+	Input Impurity = 0.21875
+	Node Height = 4
+	Input df = True
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444445
+	Node Height = 3
+	Input df = True
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 8
+	Input Impurity = 0.375
+	Node Height = 4
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.5
+	Node Height = 3
+	Input df = False
+	Attribute = Pregnancies
+Node Created.
+
+Creating Node
+	Input df size = 16
+	Input Impurity = 0.4296875
+	Node Height = 5
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 8
+	Input Impurity = 0.5
+	Node Height = 4
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 3
+	Input df = True
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 3
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 8
+	Input Impurity = 0.21875
+	Node Height = 4
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 3
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 42
+	Input Impurity = 0.33673469387755106
+	Node Height = 6
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 21
+	Input Impurity = 0.4444444444444444
+	Node Height = 5
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 10
+	Input Impurity = 0.5
+	Node Height = 4
+	Input df = False
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.31999999999999984
+	Node Height = 3
+	Input df = True
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.31999999999999984
+	Node Height = 3
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 11
+	Input Impurity = 0.2975206611570247
+	Node Height = 4
+	Input df = False
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.48
+	Node Height = 3
+	Input df = False
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444445
+	Node Height = 2
+	Input df = True
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 21
+	Input Impurity = 0.17233560090702937
+	Node Height = 5
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 10
+	Input Impurity = 0.31999999999999984
+	Node Height = 4
+	Input df = False
+	Attribute = SkinThickness
+Node Created.
+
+Creating Node
+	Input df size = 6
+	Input Impurity = 0.4444444444444444
+	Node Height = 3
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444445
+	Node Height = 2
+	Input df = True
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 77
+	Input Impurity = 0.2260077584752911
+	Node Height = 7
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 38
+	Input Impurity = 0.3324099722991689
+	Node Height = 6
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 19
+	Input Impurity = 0.4321329639889197
+	Node Height = 5
+	Input df = False
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 9
+	Input Impurity = 0.345679012345679
+	Node Height = 4
+	Input df = False
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444444
+	Node Height = 3
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 6
+	Input Impurity = 0.2777777777777777
+	Node Height = 3
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 10
+	Input Impurity = 0.48
+	Node Height = 4
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.48
+	Node Height = 3
+	Input df = True
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 2
+	Input df = True
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.31999999999999984
+	Node Height = 3
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 19
+	Input Impurity = 0.18836565096952906
+	Node Height = 5
+	Input df = False
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 9
+	Input Impurity = 0.345679012345679
+	Node Height = 4
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.5
+	Node Height = 3
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 39
+	Input Impurity = 0.09730440499671267
+	Node Height = 6
+	Input df = False
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 21
+	Input Impurity = 0.17233560090702937
+	Node Height = 5
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 10
+	Input Impurity = 0.31999999999999984
+	Node Height = 4
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.48
+	Node Height = 3
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444445
+	Node Height = 2
+	Input df = True
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 162
+	Input Impurity = 0.11583600060966326
+	Node Height = 8
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 80
+	Input Impurity = 0.19968750000000002
+	Node Height = 7
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 40
+	Input Impurity = 0.2550000000000001
+	Node Height = 6
+	Input df = False
+	Attribute = Pregnancies
+Node Created.
+
+Creating Node
+	Input df size = 12
+	Input Impurity = 0.375
+	Node Height = 5
+	Input df = False
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 6
+	Input Impurity = 0.5
+	Node Height = 4
+	Input df = False
+	Attribute = Pregnancies
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.48
+	Node Height = 3
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444445
+	Node Height = 2
+	Input df = True
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 28
+	Input Impurity = 0.1913265306122448
+	Node Height = 5
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 10
+	Input Impurity = 0.31999999999999984
+	Node Height = 4
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.48
+	Node Height = 3
+	Input df = False
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444445
+	Node Height = 2
+	Input df = True
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 18
+	Input Impurity = 0.1049382716049383
+	Node Height = 4
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 8
+	Input Impurity = 0.21875
+	Node Height = 3
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 2
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 40
+	Input Impurity = 0.13874999999999993
+	Node Height = 6
+	Input df = False
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 20
+	Input Impurity = 0.2550000000000001
+	Node Height = 5
+	Input df = False
+	Attribute = SkinThickness
+Node Created.
+
+Creating Node
+	Input df size = 9
+	Input Impurity = 0.345679012345679
+	Node Height = 4
+	Input df = False
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.48
+	Node Height = 3
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444445
+	Node Height = 2
+	Input df = True
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 11
+	Input Impurity = 0.16528925619834722
+	Node Height = 4
+	Input df = False
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 3
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 82
+	Input Impurity = 0.024092801903628835
+	Node Height = 7
+	Input df = False
+	Attribute = Pregnancies
+Node Created.
+
+Creating Node
+	Input df size = 21
+	Input Impurity = 0.09070294784580502
+	Node Height = 6
+	Input df = False
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 9
+	Input Impurity = 0.19753086419753085
+	Node Height = 5
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 4
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 3
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creation Complete
+ --- 
+Item 1  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 1.0
+ --- 
+Item 2  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 1.0
+ --- 
+Item 3  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.6666666666666666
+ --- 
+Item 4  / 154
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.5
+ --- 
+Item 5  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6
+ --- 
+Item 6  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5
+ --- 
+Item 7  / 154
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.42857142857142855
+ --- 
+Item 8  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5
+ --- 
+Item 9  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.4444444444444444
+ --- 
+Item 10  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5
+ --- 
+Item 11  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5454545454545454
+ --- 
+Item 12  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5833333333333334
+ --- 
+Item 13  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5384615384615384
+ --- 
+Item 14  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5714285714285714
+ --- 
+Item 15  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6
+ --- 
+Item 16  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.625
+ --- 
+Item 17  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6470588235294118
+ --- 
+Item 18  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.6111111111111112
+ --- 
+Item 19  / 154
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.5789473684210527
+ --- 
+Item 20  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6
+ --- 
+Item 21  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6190476190476191
+ --- 
+Item 22  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6363636363636364
+ --- 
+Item 23  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6521739130434783
+ --- 
+Item 24  / 154
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.625
+ --- 
+Item 25  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.6
+ --- 
+Item 26  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6153846153846154
+ --- 
+Item 27  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5925925925925926
+ --- 
+Item 28  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5714285714285714
+ --- 
+Item 29  / 154
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.5517241379310345
+ --- 
+Item 30  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5666666666666667
+ --- 
+Item 31  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5806451612903226
+ --- 
+Item 32  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.59375
+ --- 
+Item 33  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.6060606060606061
+ --- 
+Item 34  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6176470588235294
+ --- 
+Item 35  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.6285714285714286
+ --- 
+Item 36  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6388888888888888
+ --- 
+Item 37  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6486486486486487
+ --- 
+Item 38  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.631578947368421
+ --- 
+Item 39  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6410256410256411
+ --- 
+Item 40  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.65
+ --- 
+Item 41  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.6585365853658537
+ --- 
+Item 42  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.6428571428571429
+ --- 
+Item 43  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.627906976744186
+ --- 
+Item 44  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.6363636363636364
+ --- 
+Item 45  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6444444444444445
+ --- 
+Item 46  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.6521739130434783
+ --- 
+Item 47  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.6382978723404256
+ --- 
+Item 48  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.6458333333333334
+ --- 
+Item 49  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6530612244897959
+ --- 
+Item 50  / 154
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.64
+ --- 
+Item 51  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.6470588235294118
+ --- 
+Item 52  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.6346153846153846
+ --- 
+Item 53  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.6226415094339622
+ --- 
+Item 54  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.6111111111111112
+ --- 
+Item 55  / 154
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.6
+ --- 
+Item 56  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.6071428571428571
+ --- 
+Item 57  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5964912280701754
+ --- 
+Item 58  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5862068965517241
+ --- 
+Item 59  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5932203389830508
+ --- 
+Item 60  / 154
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.5833333333333334
+ --- 
+Item 61  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5737704918032787
+ --- 
+Item 62  / 154
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.5645161290322581
+ --- 
+Item 63  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5714285714285714
+ --- 
+Item 64  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.578125
+ --- 
+Item 65  / 154
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.5692307692307692
+ --- 
+Item 66  / 154
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.5606060606060606
+ --- 
+Item 67  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5522388059701493
+ --- 
+Item 68  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5441176470588235
+ --- 
+Item 69  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.5507246376811594
+ --- 
+Item 70  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5428571428571428
+ --- 
+Item 71  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5492957746478874
+ --- 
+Item 72  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5416666666666666
+ --- 
+Item 73  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.547945205479452
+ --- 
+Item 74  / 154
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.5405405405405406
+ --- 
+Item 75  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5466666666666666
+ --- 
+Item 76  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.5526315789473685
+ --- 
+Item 77  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5584415584415584
+ --- 
+Item 78  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5512820512820513
+ --- 
+Item 79  / 154
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.5443037974683544
+ --- 
+Item 80  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.55
+ --- 
+Item 81  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5555555555555556
+ --- 
+Item 82  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.5609756097560976
+ --- 
+Item 83  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5662650602409639
+ --- 
+Item 84  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5595238095238095
+ --- 
+Item 85  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.5647058823529412
+ --- 
+Item 86  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5697674418604651
+ --- 
+Item 87  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5747126436781609
+ --- 
+Item 88  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5681818181818182
+ --- 
+Item 89  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5730337078651685
+ --- 
+Item 90  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5666666666666667
+ --- 
+Item 91  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.5714285714285714
+ --- 
+Item 92  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.5760869565217391
+ --- 
+Item 93  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5806451612903226
+ --- 
+Item 94  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5851063829787234
+ --- 
+Item 95  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.5894736842105263
+ --- 
+Item 96  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.59375
+ --- 
+Item 97  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5876288659793815
+ --- 
+Item 98  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5918367346938775
+ --- 
+Item 99  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5959595959595959
+ --- 
+Item 100  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6
+ --- 
+Item 101  / 154
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.594059405940594
+ --- 
+Item 102  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5980392156862745
+ --- 
+Item 103  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6019417475728155
+ --- 
+Item 104  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.6057692307692307
+ --- 
+Item 105  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.6095238095238096
+ --- 
+Item 106  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6132075471698113
+ --- 
+Item 107  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.616822429906542
+ --- 
+Item 108  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6203703703703703
+ --- 
+Item 109  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.6146788990825688
+ --- 
+Item 110  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6181818181818182
+ --- 
+Item 111  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6216216216216216
+ --- 
+Item 112  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.625
+ --- 
+Item 113  / 154
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.6194690265486725
+ --- 
+Item 114  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6228070175438597
+ --- 
+Item 115  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6260869565217392
+ --- 
+Item 116  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6293103448275862
+ --- 
+Item 117  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6324786324786325
+ --- 
+Item 118  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.635593220338983
+ --- 
+Item 119  / 154
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.6302521008403361
+ --- 
+Item 120  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6333333333333333
+ --- 
+Item 121  / 154
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.628099173553719
+ --- 
+Item 122  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6311475409836066
+ --- 
+Item 123  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6341463414634146
+ --- 
+Item 124  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6370967741935484
+ --- 
+Item 125  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.632
+ --- 
+Item 126  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6349206349206349
+ --- 
+Item 127  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6377952755905512
+ --- 
+Item 128  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.6328125
+ --- 
+Item 129  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.6356589147286822
+ --- 
+Item 130  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.6307692307692307
+ --- 
+Item 131  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6335877862595419
+ --- 
+Item 132  / 154
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.6287878787878788
+ --- 
+Item 133  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.631578947368421
+ --- 
+Item 134  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6343283582089553
+ --- 
+Item 135  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.6296296296296297
+ --- 
+Item 136  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.6323529411764706
+ --- 
+Item 137  / 154
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.6277372262773723
+ --- 
+Item 138  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6304347826086957
+ --- 
+Item 139  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.6330935251798561
+ --- 
+Item 140  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.6285714285714286
+ --- 
+Item 141  / 154
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.624113475177305
+ --- 
+Item 142  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6267605633802817
+ --- 
+Item 143  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6293706293706294
+ --- 
+Item 144  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.625
+ --- 
+Item 145  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.6206896551724138
+ --- 
+Item 146  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.6232876712328768
+ --- 
+Item 147  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6258503401360545
+ --- 
+Item 148  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.6216216216216216
+ --- 
+Item 149  / 154
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.6174496644295302
+ --- 
+Item 150  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.62
+ --- 
+Item 151  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6225165562913907
+ --- 
+Item 152  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.625
+ --- 
+Item 153  / 154
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.6274509803921569
+ --- 
+Item 154  / 154
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6298701298701299
+Completed.
+	Correct Guesses: 97
+	False Positives: 20
+	False Negatives: 37
+	True Positives: 29
+	True Negatives: 68

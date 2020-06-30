@@ -1,0 +1,3293 @@
+Starting Tree Creation
+Creating Node
+	Input df size = 614
+	Input Impurity = 0.44151131576992864
+	Node Height = 9
+	Input df = False
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 301
+	Input Impurity = 0.49840509486650264
+	Node Height = 8
+	Input df = True
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 148
+	Input Impurity = 0.44293279766252724
+	Node Height = 7
+	Input df = True
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 73
+	Input Impurity = 0.3100018765246763
+	Node Height = 6
+	Input df = True
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 36
+	Input Impurity = 0.1975308641975309
+	Node Height = 5
+	Input df = True
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 18
+	Input Impurity = 0.345679012345679
+	Node Height = 4
+	Input df = True
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 8
+	Input Impurity = 0.46875
+	Node Height = 3
+	Input df = True
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 10
+	Input Impurity = 0.17999999999999994
+	Node Height = 3
+	Input df = True
+	Attribute = Pregnancies
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444445
+	Node Height = 2
+	Input df = True
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 37
+	Input Impurity = 0.3944485025566107
+	Node Height = 5
+	Input df = True
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 18
+	Input Impurity = 0.2777777777777777
+	Node Height = 4
+	Input df = True
+	Attribute = SkinThickness
+Node Created.
+
+Creating Node
+	Input df size = 9
+	Input Impurity = 0.4444444444444445
+	Node Height = 3
+	Input df = True
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.31999999999999984
+	Node Height = 2
+	Input df = True
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 19
+	Input Impurity = 0.4653739612188366
+	Node Height = 4
+	Input df = True
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 8
+	Input Impurity = 0.46875
+	Node Height = 3
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = Pregnancies
+Node Created.
+
+Creating Node
+	Input df size = 11
+	Input Impurity = 0.2975206611570247
+	Node Height = 3
+	Input df = True
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 6
+	Input Impurity = 0.4444444444444445
+	Node Height = 2
+	Input df = True
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444444
+	Node Height = 1
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 75
+	Input Impurity = 0.4977777777777777
+	Node Height = 6
+	Input df = True
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 37
+	Input Impurity = 0.47041636230825423
+	Node Height = 5
+	Input df = True
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 17
+	Input Impurity = 0.2906574394463668
+	Node Height = 4
+	Input df = True
+	Attribute = Pregnancies
+Node Created.
+
+Creating Node
+	Input df size = 6
+	Input Impurity = 0.4444444444444445
+	Node Height = 3
+	Input df = True
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444444
+	Node Height = 2
+	Input df = False
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 11
+	Input Impurity = 0.1652892561983472
+	Node Height = 3
+	Input df = True
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.31999999999999984
+	Node Height = 2
+	Input df = True
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 20
+	Input Impurity = 0.49499999999999994
+	Node Height = 4
+	Input df = False
+	Attribute = Pregnancies
+Node Created.
+
+Creating Node
+	Input df size = 6
+	Input Impurity = 0.2777777777777777
+	Node Height = 3
+	Input df = True
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444445
+	Node Height = 2
+	Input df = True
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 14
+	Input Impurity = 0.40816326530612246
+	Node Height = 3
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 7
+	Input Impurity = 0.489795918367347
+	Node Height = 2
+	Input df = False
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 1
+	Input df = True
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 7
+	Input Impurity = 0.24489795918367352
+	Node Height = 2
+	Input df = False
+	Attribute = Pregnancies
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 38
+	Input Impurity = 0.49445983379501374
+	Node Height = 5
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 17
+	Input Impurity = 0.45674740484429066
+	Node Height = 4
+	Input df = True
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 8
+	Input Impurity = 0.5
+	Node Height = 3
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 2
+	Input df = True
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 2
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 9
+	Input Impurity = 0.345679012345679
+	Node Height = 3
+	Input df = True
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 6
+	Input Impurity = 0.4444444444444445
+	Node Height = 2
+	Input df = True
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444444
+	Node Height = 1
+	Input df = False
+	Attribute = SkinThickness
+Node Created.
+
+Creating Node
+	Input df size = 21
+	Input Impurity = 0.40816326530612246
+	Node Height = 4
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 7
+	Input Impurity = 0.48979591836734704
+	Node Height = 3
+	Input df = True
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444444
+	Node Height = 2
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 2
+	Input df = True
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 14
+	Input Impurity = 0.24489795918367352
+	Node Height = 3
+	Input df = False
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 6
+	Input Impurity = 0.4444444444444444
+	Node Height = 2
+	Input df = False
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444445
+	Node Height = 1
+	Input df = True
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 153
+	Input Impurity = 0.47673971549404087
+	Node Height = 7
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 76
+	Input Impurity = 0.49688365650969524
+	Node Height = 6
+	Input df = True
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 35
+	Input Impurity = 0.40816326530612246
+	Node Height = 5
+	Input df = True
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 17
+	Input Impurity = 0.20761245674740492
+	Node Height = 4
+	Input df = True
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 9
+	Input Impurity = 0.345679012345679
+	Node Height = 3
+	Input df = True
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = SkinThickness
+Node Created.
+
+Creating Node
+	Input df size = 18
+	Input Impurity = 0.49382716049382713
+	Node Height = 4
+	Input df = True
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 8
+	Input Impurity = 0.375
+	Node Height = 3
+	Input df = True
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 10
+	Input Impurity = 0.48
+	Node Height = 3
+	Input df = False
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.31999999999999984
+	Node Height = 2
+	Input df = True
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 41
+	Input Impurity = 0.47590719809637116
+	Node Height = 5
+	Input df = False
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 20
+	Input Impurity = 0.495
+	Node Height = 4
+	Input df = True
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 10
+	Input Impurity = 0.48
+	Node Height = 3
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.48
+	Node Height = 2
+	Input df = True
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444444
+	Node Height = 1
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.31999999999999984
+	Node Height = 2
+	Input df = False
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 10
+	Input Impurity = 0.42000000000000004
+	Node Height = 3
+	Input df = True
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.31999999999999984
+	Node Height = 2
+	Input df = True
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.48
+	Node Height = 2
+	Input df = True
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 21
+	Input Impurity = 0.36281179138322006
+	Node Height = 4
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 10
+	Input Impurity = 0.48
+	Node Height = 3
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.48
+	Node Height = 2
+	Input df = True
+	Attribute = SkinThickness
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.31999999999999984
+	Node Height = 2
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 11
+	Input Impurity = 0.16528925619834722
+	Node Height = 3
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 6
+	Input Impurity = 0.2777777777777777
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444444
+	Node Height = 1
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 77
+	Input Impurity = 0.3717321639399561
+	Node Height = 6
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 38
+	Input Impurity = 0.4778393351800554
+	Node Height = 5
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 19
+	Input Impurity = 0.4986149584487535
+	Node Height = 4
+	Input df = True
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 6
+	Input Impurity = 0.4444444444444444
+	Node Height = 3
+	Input df = False
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 13
+	Input Impurity = 0.47337278106508873
+	Node Height = 3
+	Input df = True
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.31999999999999984
+	Node Height = 2
+	Input df = True
+	Attribute = SkinThickness
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 8
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 1
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 1
+	Input df = True
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 19
+	Input Impurity = 0.38781163434903054
+	Node Height = 4
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 9
+	Input Impurity = 0.49382716049382713
+	Node Height = 3
+	Input df = False
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 2
+	Input df = True
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.31999999999999984
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 10
+	Input Impurity = 0.17999999999999994
+	Node Height = 3
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.31999999999999984
+	Node Height = 2
+	Input df = False
+	Attribute = Pregnancies
+Node Created.
+
+Creating Node
+	Input df size = 39
+	Input Impurity = 0.1840894148586456
+	Node Height = 5
+	Input df = False
+	Attribute = Pregnancies
+Node Created.
+
+Creating Node
+	Input df size = 19
+	Input Impurity = 0.2659279778393353
+	Node Height = 4
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 9
+	Input Impurity = 0.19753086419753085
+	Node Height = 3
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.31999999999999984
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 10
+	Input Impurity = 0.31999999999999984
+	Node Height = 3
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.48
+	Node Height = 2
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 20
+	Input Impurity = 0.09500000000000008
+	Node Height = 4
+	Input df = False
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 9
+	Input Impurity = 0.19753086419753085
+	Node Height = 3
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 313
+	Input Impurity = 0.23701374924721086
+	Node Height = 8
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 151
+	Input Impurity = 0.3415639664926977
+	Node Height = 7
+	Input df = False
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 74
+	Input Impurity = 0.4284149013878744
+	Node Height = 6
+	Input df = False
+	Attribute = Pregnancies
+Node Created.
+
+Creating Node
+	Input df size = 32
+	Input Impurity = 0.4921875
+	Node Height = 5
+	Input df = False
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 16
+	Input Impurity = 0.4921875
+	Node Height = 4
+	Input df = True
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 8
+	Input Impurity = 0.21875
+	Node Height = 3
+	Input df = True
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444445
+	Node Height = 2
+	Input df = True
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 8
+	Input Impurity = 0.375
+	Node Height = 3
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = Pregnancies
+Node Created.
+
+Creating Node
+	Input df size = 16
+	Input Impurity = 0.4296875
+	Node Height = 4
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 8
+	Input Impurity = 0.5
+	Node Height = 3
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 2
+	Input df = True
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 2
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 8
+	Input Impurity = 0.21875
+	Node Height = 3
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 42
+	Input Impurity = 0.33673469387755106
+	Node Height = 5
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 21
+	Input Impurity = 0.4444444444444444
+	Node Height = 4
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 10
+	Input Impurity = 0.5
+	Node Height = 3
+	Input df = False
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.31999999999999984
+	Node Height = 2
+	Input df = True
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.31999999999999984
+	Node Height = 2
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 11
+	Input Impurity = 0.2975206611570247
+	Node Height = 3
+	Input df = False
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.48
+	Node Height = 2
+	Input df = False
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444445
+	Node Height = 1
+	Input df = True
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 21
+	Input Impurity = 0.17233560090702937
+	Node Height = 4
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 10
+	Input Impurity = 0.31999999999999984
+	Node Height = 3
+	Input df = False
+	Attribute = SkinThickness
+Node Created.
+
+Creating Node
+	Input df size = 6
+	Input Impurity = 0.4444444444444444
+	Node Height = 2
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444445
+	Node Height = 1
+	Input df = True
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 77
+	Input Impurity = 0.2260077584752911
+	Node Height = 6
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 38
+	Input Impurity = 0.3324099722991689
+	Node Height = 5
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 19
+	Input Impurity = 0.4321329639889197
+	Node Height = 4
+	Input df = False
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 9
+	Input Impurity = 0.345679012345679
+	Node Height = 3
+	Input df = False
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444444
+	Node Height = 2
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 6
+	Input Impurity = 0.2777777777777777
+	Node Height = 2
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 10
+	Input Impurity = 0.48
+	Node Height = 3
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.48
+	Node Height = 2
+	Input df = True
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 1
+	Input df = True
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.31999999999999984
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 19
+	Input Impurity = 0.18836565096952906
+	Node Height = 4
+	Input df = False
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 9
+	Input Impurity = 0.345679012345679
+	Node Height = 3
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 39
+	Input Impurity = 0.09730440499671267
+	Node Height = 5
+	Input df = False
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 21
+	Input Impurity = 0.17233560090702937
+	Node Height = 4
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 10
+	Input Impurity = 0.31999999999999984
+	Node Height = 3
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.48
+	Node Height = 2
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444445
+	Node Height = 1
+	Input df = True
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 162
+	Input Impurity = 0.11583600060966326
+	Node Height = 7
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 80
+	Input Impurity = 0.19968750000000002
+	Node Height = 6
+	Input df = False
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 40
+	Input Impurity = 0.2550000000000001
+	Node Height = 5
+	Input df = False
+	Attribute = Pregnancies
+Node Created.
+
+Creating Node
+	Input df size = 12
+	Input Impurity = 0.375
+	Node Height = 4
+	Input df = False
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 6
+	Input Impurity = 0.5
+	Node Height = 3
+	Input df = False
+	Attribute = Pregnancies
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.48
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444445
+	Node Height = 1
+	Input df = True
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 28
+	Input Impurity = 0.1913265306122448
+	Node Height = 4
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 10
+	Input Impurity = 0.31999999999999984
+	Node Height = 3
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.48
+	Node Height = 2
+	Input df = False
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444445
+	Node Height = 1
+	Input df = True
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 18
+	Input Impurity = 0.1049382716049383
+	Node Height = 3
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 8
+	Input Impurity = 0.21875
+	Node Height = 2
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 1
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 40
+	Input Impurity = 0.13874999999999993
+	Node Height = 5
+	Input df = False
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 20
+	Input Impurity = 0.2550000000000001
+	Node Height = 4
+	Input df = False
+	Attribute = SkinThickness
+Node Created.
+
+Creating Node
+	Input df size = 9
+	Input Impurity = 0.345679012345679
+	Node Height = 3
+	Input df = False
+	Attribute = Insulin
+Node Created.
+
+Creating Node
+	Input df size = 5
+	Input Impurity = 0.48
+	Node Height = 2
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 3
+	Input Impurity = 0.4444444444444445
+	Node Height = 1
+	Input df = True
+	Attribute = BMI
+Node Created.
+
+Creating Node
+	Input df size = 11
+	Input Impurity = 0.16528925619834722
+	Node Height = 3
+	Input df = False
+	Attribute = BloodPressure
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 2
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 1
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 82
+	Input Impurity = 0.024092801903628835
+	Node Height = 6
+	Input df = False
+	Attribute = Pregnancies
+Node Created.
+
+Creating Node
+	Input df size = 21
+	Input Impurity = 0.09070294784580502
+	Node Height = 5
+	Input df = False
+	Attribute = Glucose
+Node Created.
+
+Creating Node
+	Input df size = 9
+	Input Impurity = 0.19753086419753085
+	Node Height = 4
+	Input df = False
+	Attribute = DiabetesPedigreeFunction
+Node Created.
+
+Creating Node
+	Input df size = 4
+	Input Impurity = 0.375
+	Node Height = 3
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creating Node
+	Input df size = 2
+	Input Impurity = 0.5
+	Node Height = 2
+	Input df = False
+	Attribute = Age
+Node Created.
+
+Creation Complete
+     Pregnancies  Glucose  ...  Age  Outcome
+0              6      148  ...   50        1
+2              8      183  ...   32        1
+6              3       78  ...   26        1
+7             10      115  ...   29        0
+10             4      110  ...   30        0
+..           ...      ...  ...  ...      ...
+741            3      102  ...   26        0
+745           12      100  ...   46        0
+752            3      108  ...   25        0
+761            9      170  ...   43        1
+764            2      122  ...   27        0
+
+[154 rows x 9 columns]
+ --- 
+Pregnancies                   6.000
+Glucose                     148.000
+BloodPressure                72.000
+SkinThickness                35.000
+Insulin                       0.000
+BMI                          33.600
+DiabetesPedigreeFunction      0.627
+Age                          50.000
+Outcome                       1.000
+Name: 0, dtype: float64
+I think : True
+	- Real value: True
+	- Current Accuracy: 1.0
+ --- 
+Pregnancies                   8.000
+Glucose                     183.000
+BloodPressure                64.000
+SkinThickness                 0.000
+Insulin                       0.000
+BMI                          23.300
+DiabetesPedigreeFunction      0.672
+Age                          32.000
+Outcome                       1.000
+Name: 2, dtype: float64
+I think : True
+	- Real value: True
+	- Current Accuracy: 1.0
+ --- 
+Pregnancies                  3.000
+Glucose                     78.000
+BloodPressure               50.000
+SkinThickness               32.000
+Insulin                     88.000
+BMI                         31.000
+DiabetesPedigreeFunction     0.248
+Age                         26.000
+Outcome                      1.000
+Name: 6, dtype: float64
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.6666666666666666
+ --- 
+Pregnancies                  10.000
+Glucose                     115.000
+BloodPressure                 0.000
+SkinThickness                 0.000
+Insulin                       0.000
+BMI                          35.300
+DiabetesPedigreeFunction      0.134
+Age                          29.000
+Outcome                       0.000
+Name: 7, dtype: float64
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.5
+ --- 
+Pregnancies                   4.000
+Glucose                     110.000
+BloodPressure                92.000
+SkinThickness                 0.000
+Insulin                       0.000
+BMI                          37.600
+DiabetesPedigreeFunction      0.191
+Age                          30.000
+Outcome                       0.000
+Name: 10, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6
+ --- 
+Pregnancies                   7.000
+Glucose                     107.000
+BloodPressure                74.000
+SkinThickness                 0.000
+Insulin                       0.000
+BMI                          29.600
+DiabetesPedigreeFunction      0.254
+Age                          31.000
+Outcome                       1.000
+Name: 17, dtype: float64
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5
+ --- 
+Pregnancies                   5.000
+Glucose                     117.000
+BloodPressure                92.000
+SkinThickness                 0.000
+Insulin                       0.000
+BMI                          34.100
+DiabetesPedigreeFunction      0.337
+Age                          38.000
+Outcome                       0.000
+Name: 29, dtype: float64
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.42857142857142855
+ --- 
+Pregnancies                   7.000
+Glucose                     106.000
+BloodPressure                92.000
+SkinThickness                18.000
+Insulin                       0.000
+BMI                          22.700
+DiabetesPedigreeFunction      0.235
+Age                          48.000
+Outcome                       0.000
+Name: 42, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5
+ --- 
+Pregnancies                   9.000
+Glucose                     171.000
+BloodPressure               110.000
+SkinThickness                24.000
+Insulin                     240.000
+BMI                          45.400
+DiabetesPedigreeFunction      0.721
+Age                          54.000
+Outcome                       1.000
+Name: 43, dtype: float64
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.4444444444444444
+ --- 
+Pregnancies                   1.000
+Glucose                     101.000
+BloodPressure                50.000
+SkinThickness                15.000
+Insulin                      36.000
+BMI                          24.200
+DiabetesPedigreeFunction      0.526
+Age                          26.000
+Outcome                       0.000
+Name: 51, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5
+ --- 
+Pregnancies                  5.000
+Glucose                     88.000
+BloodPressure               66.000
+SkinThickness               21.000
+Insulin                     23.000
+BMI                         24.400
+DiabetesPedigreeFunction     0.342
+Age                         30.000
+Outcome                      0.000
+Name: 52, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5454545454545454
+ --- 
+Pregnancies                   2.000
+Glucose                     109.000
+BloodPressure                92.000
+SkinThickness                 0.000
+Insulin                       0.000
+BMI                          42.700
+DiabetesPedigreeFunction      0.845
+Age                          54.000
+Outcome                       0.000
+Name: 67, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5833333333333334
+ --- 
+Pregnancies                   2.000
+Glucose                     100.000
+BloodPressure                66.000
+SkinThickness                20.000
+Insulin                      90.000
+BMI                          32.900
+DiabetesPedigreeFunction      0.867
+Age                          28.000
+Outcome                       1.000
+Name: 70, dtype: float64
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5384615384615384
+ --- 
+Pregnancies                  7.000
+Glucose                     62.000
+BloodPressure               78.000
+SkinThickness                0.000
+Insulin                      0.000
+BMI                         32.600
+DiabetesPedigreeFunction     0.391
+Age                         41.000
+Outcome                      0.000
+Name: 76, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5714285714285714
+ --- 
+Pregnancies                  5.00
+Glucose                     95.00
+BloodPressure               72.00
+SkinThickness               33.00
+Insulin                      0.00
+BMI                         37.70
+DiabetesPedigreeFunction     0.37
+Age                         27.00
+Outcome                      0.00
+Name: 77, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6
+ --- 
+Pregnancies                   2.000
+Glucose                     112.000
+BloodPressure                66.000
+SkinThickness                22.000
+Insulin                       0.000
+BMI                          25.000
+DiabetesPedigreeFunction      0.307
+Age                          24.000
+Outcome                       0.000
+Name: 79, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.625
+ --- 
+Pregnancies                  2.000
+Glucose                     74.000
+BloodPressure                0.000
+SkinThickness                0.000
+Insulin                      0.000
+BMI                          0.000
+DiabetesPedigreeFunction     0.102
+Age                         22.000
+Outcome                      0.000
+Name: 81, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6470588235294118
+ --- 
+Pregnancies                   5.000
+Glucose                     137.000
+BloodPressure               108.000
+SkinThickness                 0.000
+Insulin                       0.000
+BMI                          48.800
+DiabetesPedigreeFunction      0.227
+Age                          37.000
+Outcome                       1.000
+Name: 84, dtype: float64
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.6111111111111112
+ --- 
+Pregnancies                   2.000
+Glucose                     110.000
+BloodPressure                74.000
+SkinThickness                29.000
+Insulin                     125.000
+BMI                          32.400
+DiabetesPedigreeFunction      0.698
+Age                          27.000
+Outcome                       0.000
+Name: 85, dtype: float64
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.5789473684210527
+ --- 
+Pregnancies                   2.000
+Glucose                     100.000
+BloodPressure                68.000
+SkinThickness                25.000
+Insulin                      71.000
+BMI                          38.500
+DiabetesPedigreeFunction      0.324
+Age                          26.000
+Outcome                       0.000
+Name: 87, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6
+ --- 
+Pregnancies                  1.000
+Glucose                     80.000
+BloodPressure               55.000
+SkinThickness                0.000
+Insulin                      0.000
+BMI                         19.100
+DiabetesPedigreeFunction     0.258
+Age                         21.000
+Outcome                      0.000
+Name: 90, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6190476190476191
+ --- 
+Pregnancies                   6.000
+Glucose                     144.000
+BloodPressure                72.000
+SkinThickness                27.000
+Insulin                     228.000
+BMI                          33.900
+DiabetesPedigreeFunction      0.255
+Age                          40.000
+Outcome                       0.000
+Name: 95, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6363636363636364
+ --- 
+Pregnancies                  1.000
+Glucose                     71.000
+BloodPressure               48.000
+SkinThickness               18.000
+Insulin                     76.000
+BMI                         20.400
+DiabetesPedigreeFunction     0.323
+Age                         22.000
+Outcome                      0.000
+Name: 97, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6521739130434783
+ --- 
+Pregnancies                  2.00
+Glucose                     85.00
+BloodPressure               65.00
+SkinThickness                0.00
+Insulin                      0.00
+BMI                         39.60
+DiabetesPedigreeFunction     0.93
+Age                         27.00
+Outcome                      0.00
+Name: 104, dtype: float64
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.625
+ --- 
+Pregnancies                   3.000
+Glucose                     171.000
+BloodPressure                72.000
+SkinThickness                33.000
+Insulin                     135.000
+BMI                          33.300
+DiabetesPedigreeFunction      0.199
+Age                          24.000
+Outcome                       1.000
+Name: 110, dtype: float64
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.6
+ --- 
+Pregnancies                  5.000
+Glucose                     78.000
+BloodPressure               48.000
+SkinThickness                0.000
+Insulin                      0.000
+BMI                         33.700
+DiabetesPedigreeFunction     0.654
+Age                         25.000
+Outcome                      0.000
+Name: 117, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6153846153846154
+ --- 
+Pregnancies                   1.000
+Glucose                     117.000
+BloodPressure                88.000
+SkinThickness                24.000
+Insulin                     145.000
+BMI                          34.500
+DiabetesPedigreeFunction      0.403
+Age                          40.000
+Outcome                       1.000
+Name: 128, dtype: float64
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5925925925925926
+ --- 
+Pregnancies                   9.000
+Glucose                     122.000
+BloodPressure                56.000
+SkinThickness                 0.000
+Insulin                       0.000
+BMI                          33.300
+DiabetesPedigreeFunction      1.114
+Age                          33.000
+Outcome                       1.000
+Name: 131, dtype: float64
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5714285714285714
+ --- 
+Pregnancies                   2.000
+Glucose                     125.000
+BloodPressure                60.000
+SkinThickness                20.000
+Insulin                     140.000
+BMI                          33.800
+DiabetesPedigreeFunction      0.088
+Age                          31.000
+Outcome                       0.000
+Name: 135, dtype: float64
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.5517241379310345
+ --- 
+Pregnancies                  0.000
+Glucose                     93.000
+BloodPressure               60.000
+SkinThickness               25.000
+Insulin                     92.000
+BMI                         28.700
+DiabetesPedigreeFunction     0.532
+Age                         22.000
+Outcome                      0.000
+Name: 137, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5666666666666667
+ --- 
+Pregnancies                   5.000
+Glucose                     105.000
+BloodPressure                72.000
+SkinThickness                29.000
+Insulin                     325.000
+BMI                          36.900
+DiabetesPedigreeFunction      0.159
+Age                          28.000
+Outcome                       0.000
+Name: 139, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5806451612903226
+ --- 
+Pregnancies                  10.000
+Glucose                     108.000
+BloodPressure                66.000
+SkinThickness                 0.000
+Insulin                       0.000
+BMI                          32.400
+DiabetesPedigreeFunction      0.272
+Age                          42.000
+Outcome                       1.000
+Name: 143, dtype: float64
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.59375
+ --- 
+Pregnancies                   7.000
+Glucose                     152.000
+BloodPressure                88.000
+SkinThickness                44.000
+Insulin                       0.000
+BMI                          50.000
+DiabetesPedigreeFunction      0.337
+Age                          36.000
+Outcome                       1.000
+Name: 155, dtype: float64
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.6060606060606061
+ --- 
+Pregnancies                  2.000
+Glucose                     88.000
+BloodPressure               74.000
+SkinThickness               19.000
+Insulin                     53.000
+BMI                         29.000
+DiabetesPedigreeFunction     0.229
+Age                         22.000
+Outcome                      0.000
+Name: 158, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6176470588235294
+ --- 
+Pregnancies                  17.000
+Glucose                     163.000
+BloodPressure                72.000
+SkinThickness                41.000
+Insulin                     114.000
+BMI                          40.900
+DiabetesPedigreeFunction      0.817
+Age                          47.000
+Outcome                       1.000
+Name: 159, dtype: float64
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.6285714285714286
+ --- 
+Pregnancies                   4.000
+Glucose                     151.000
+BloodPressure                90.000
+SkinThickness                38.000
+Insulin                       0.000
+BMI                          29.700
+DiabetesPedigreeFunction      0.294
+Age                          36.000
+Outcome                       0.000
+Name: 160, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6388888888888888
+ --- 
+Pregnancies                   4.000
+Glucose                     110.000
+BloodPressure                66.000
+SkinThickness                 0.000
+Insulin                       0.000
+BMI                          31.900
+DiabetesPedigreeFunction      0.471
+Age                          29.000
+Outcome                       0.000
+Name: 168, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6486486486486487
+ --- 
+Pregnancies                   6.00
+Glucose                     102.00
+BloodPressure                82.00
+SkinThickness                 0.00
+Insulin                       0.00
+BMI                          30.80
+DiabetesPedigreeFunction      0.18
+Age                          36.00
+Outcome                       1.00
+Name: 170, dtype: float64
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.631578947368421
+ --- 
+Pregnancies                   5.00
+Glucose                     143.00
+BloodPressure                78.00
+SkinThickness                 0.00
+Insulin                       0.00
+BMI                          45.00
+DiabetesPedigreeFunction      0.19
+Age                          47.00
+Outcome                       0.00
+Name: 178, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6410256410256411
+ --- 
+Pregnancies                   4.000
+Glucose                     141.000
+BloodPressure                74.000
+SkinThickness                 0.000
+Insulin                       0.000
+BMI                          27.600
+DiabetesPedigreeFunction      0.244
+Age                          40.000
+Outcome                       0.000
+Name: 184, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.65
+ --- 
+Pregnancies                   7.000
+Glucose                     194.000
+BloodPressure                68.000
+SkinThickness                28.000
+Insulin                       0.000
+BMI                          35.900
+DiabetesPedigreeFunction      0.745
+Age                          41.000
+Outcome                       1.000
+Name: 185, dtype: float64
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.6585365853658537
+ --- 
+Pregnancies                   1.000
+Glucose                     128.000
+BloodPressure                98.000
+SkinThickness                41.000
+Insulin                      58.000
+BMI                          32.000
+DiabetesPedigreeFunction      1.321
+Age                          33.000
+Outcome                       1.000
+Name: 187, dtype: float64
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.6428571428571429
+ --- 
+Pregnancies                   8.00
+Glucose                     109.00
+BloodPressure                76.00
+SkinThickness                39.00
+Insulin                     114.00
+BMI                          27.90
+DiabetesPedigreeFunction      0.64
+Age                          31.00
+Outcome                       1.00
+Name: 188, dtype: float64
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.627906976744186
+ --- 
+Pregnancies                   5.000
+Glucose                     139.000
+BloodPressure                80.000
+SkinThickness                35.000
+Insulin                     160.000
+BMI                          31.600
+DiabetesPedigreeFunction      0.361
+Age                          25.000
+Outcome                       1.000
+Name: 189, dtype: float64
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.6363636363636364
+ --- 
+Pregnancies                   3.000
+Glucose                     111.000
+BloodPressure                62.000
+SkinThickness                 0.000
+Insulin                       0.000
+BMI                          22.600
+DiabetesPedigreeFunction      0.142
+Age                          21.000
+Outcome                       0.000
+Name: 190, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6444444444444445
+ --- 
+Pregnancies                   7.000
+Glucose                     159.000
+BloodPressure                66.000
+SkinThickness                 0.000
+Insulin                       0.000
+BMI                          30.400
+DiabetesPedigreeFunction      0.383
+Age                          36.000
+Outcome                       1.000
+Name: 192, dtype: float64
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.6521739130434783
+ --- 
+Pregnancies                  11.000
+Glucose                     135.000
+BloodPressure                 0.000
+SkinThickness                 0.000
+Insulin                       0.000
+BMI                          52.300
+DiabetesPedigreeFunction      0.578
+Age                          40.000
+Outcome                       1.000
+Name: 193, dtype: float64
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.6382978723404256
+ --- 
+Pregnancies                   4.00
+Glucose                     148.00
+BloodPressure                60.00
+SkinThickness                27.00
+Insulin                     318.00
+BMI                          30.90
+DiabetesPedigreeFunction      0.15
+Age                          29.00
+Outcome                       1.00
+Name: 199, dtype: float64
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.6458333333333334
+ --- 
+Pregnancies                   0.000
+Glucose                     113.000
+BloodPressure                80.000
+SkinThickness                16.000
+Insulin                       0.000
+BMI                          31.000
+DiabetesPedigreeFunction      0.874
+Age                          21.000
+Outcome                       0.000
+Name: 200, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6530612244897959
+ --- 
+Pregnancies                   1.000
+Glucose                     138.000
+BloodPressure                82.000
+SkinThickness                 0.000
+Insulin                       0.000
+BMI                          40.100
+DiabetesPedigreeFunction      0.236
+Age                          28.000
+Outcome                       0.000
+Name: 201, dtype: float64
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.64
+ --- 
+Pregnancies                   7.000
+Glucose                     184.000
+BloodPressure                84.000
+SkinThickness                33.000
+Insulin                       0.000
+BMI                          35.500
+DiabetesPedigreeFunction      0.355
+Age                          41.000
+Outcome                       1.000
+Name: 209, dtype: float64
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.6470588235294118
+ --- 
+Pregnancies                   5.000
+Glucose                     109.000
+BloodPressure                62.000
+SkinThickness                41.000
+Insulin                     129.000
+BMI                          35.800
+DiabetesPedigreeFunction      0.514
+Age                          25.000
+Outcome                       1.000
+Name: 216, dtype: float64
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.6346153846153846
+ --- 
+Pregnancies                  5.000
+Glucose                     85.000
+BloodPressure               74.000
+SkinThickness               22.000
+Insulin                      0.000
+BMI                         29.000
+DiabetesPedigreeFunction     1.224
+Age                         32.000
+Outcome                      1.000
+Name: 218, dtype: float64
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.6226415094339622
+ --- 
+Pregnancies                   5.000
+Glucose                     112.000
+BloodPressure                66.000
+SkinThickness                 0.000
+Insulin                       0.000
+BMI                          37.800
+DiabetesPedigreeFunction      0.261
+Age                          41.000
+Outcome                       1.000
+Name: 219, dtype: float64
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.6111111111111112
+ --- 
+Pregnancies                   4.000
+Glucose                     197.000
+BloodPressure                70.000
+SkinThickness                39.000
+Insulin                     744.000
+BMI                          36.700
+DiabetesPedigreeFunction      2.329
+Age                          31.000
+Outcome                       0.000
+Name: 228, dtype: float64
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.6
+ --- 
+Pregnancies                   9.000
+Glucose                     164.000
+BloodPressure                84.000
+SkinThickness                21.000
+Insulin                       0.000
+BMI                          30.800
+DiabetesPedigreeFunction      0.831
+Age                          32.000
+Outcome                       1.000
+Name: 238, dtype: float64
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.6071428571428571
+ --- 
+Pregnancies                   3.000
+Glucose                     139.000
+BloodPressure                54.000
+SkinThickness                 0.000
+Insulin                       0.000
+BMI                          25.600
+DiabetesPedigreeFunction      0.402
+Age                          22.000
+Outcome                       1.000
+Name: 242, dtype: float64
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5964912280701754
+ --- 
+Pregnancies                   6.000
+Glucose                     119.000
+BloodPressure                50.000
+SkinThickness                22.000
+Insulin                     176.000
+BMI                          27.100
+DiabetesPedigreeFunction      1.318
+Age                          33.000
+Outcome                       1.000
+Name: 243, dtype: float64
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5862068965517241
+ --- 
+Pregnancies                   2.000
+Glucose                     146.000
+BloodPressure                76.000
+SkinThickness                35.000
+Insulin                     194.000
+BMI                          38.200
+DiabetesPedigreeFunction      0.329
+Age                          29.000
+Outcome                       0.000
+Name: 244, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5932203389830508
+ --- 
+Pregnancies                   9.000
+Glucose                     124.000
+BloodPressure                70.000
+SkinThickness                33.000
+Insulin                     402.000
+BMI                          35.400
+DiabetesPedigreeFunction      0.282
+Age                          34.000
+Outcome                       0.000
+Name: 248, dtype: float64
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.5833333333333334
+ --- 
+Pregnancies                   1.000
+Glucose                     113.000
+BloodPressure                64.000
+SkinThickness                35.000
+Insulin                       0.000
+BMI                          33.600
+DiabetesPedigreeFunction      0.543
+Age                          21.000
+Outcome                       1.000
+Name: 255, dtype: float64
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5737704918032787
+ --- 
+Pregnancies                   3.0
+Glucose                     142.0
+BloodPressure                80.0
+SkinThickness                15.0
+Insulin                       0.0
+BMI                          32.4
+DiabetesPedigreeFunction      0.2
+Age                          63.0
+Outcome                       0.0
+Name: 263, dtype: float64
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.5645161290322581
+ --- 
+Pregnancies                   3.000
+Glucose                     122.000
+BloodPressure                78.000
+SkinThickness                 0.000
+Insulin                       0.000
+BMI                          23.000
+DiabetesPedigreeFunction      0.254
+Age                          40.000
+Outcome                       0.000
+Name: 272, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5714285714285714
+ --- 
+Pregnancies                   2.000
+Glucose                     108.000
+BloodPressure                62.000
+SkinThickness                10.000
+Insulin                     278.000
+BMI                          25.300
+DiabetesPedigreeFunction      0.881
+Age                          22.000
+Outcome                       0.000
+Name: 279, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.578125
+ --- 
+Pregnancies                  10.00
+Glucose                     129.00
+BloodPressure                76.00
+SkinThickness                28.00
+Insulin                     122.00
+BMI                          35.90
+DiabetesPedigreeFunction      0.28
+Age                          39.00
+Outcome                       0.00
+Name: 281, dtype: float64
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.5692307692307692
+ --- 
+Pregnancies                   7.000
+Glucose                     133.000
+BloodPressure                88.000
+SkinThickness                15.000
+Insulin                     155.000
+BMI                          32.400
+DiabetesPedigreeFunction      0.262
+Age                          37.000
+Outcome                       0.000
+Name: 282, dtype: float64
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.5606060606060606
+ --- 
+Pregnancies                   2.000
+Glucose                     108.000
+BloodPressure                80.000
+SkinThickness                 0.000
+Insulin                       0.000
+BMI                          27.000
+DiabetesPedigreeFunction      0.259
+Age                          52.000
+Outcome                       1.000
+Name: 284, dtype: float64
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5522388059701493
+ --- 
+Pregnancies                  14.000
+Glucose                     100.000
+BloodPressure                78.000
+SkinThickness                25.000
+Insulin                     184.000
+BMI                          36.600
+DiabetesPedigreeFunction      0.412
+Age                          46.000
+Outcome                       1.000
+Name: 298, dtype: float64
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5441176470588235
+ --- 
+Pregnancies                  10.000
+Glucose                     161.000
+BloodPressure                68.000
+SkinThickness                23.000
+Insulin                     132.000
+BMI                          25.500
+DiabetesPedigreeFunction      0.326
+Age                          47.000
+Outcome                       1.000
+Name: 306, dtype: float64
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.5507246376811594
+ --- 
+Pregnancies                   2.000
+Glucose                     155.000
+BloodPressure                74.000
+SkinThickness                17.000
+Insulin                      96.000
+BMI                          26.600
+DiabetesPedigreeFunction      0.433
+Age                          27.000
+Outcome                       1.000
+Name: 312, dtype: float64
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5428571428571428
+ --- 
+Pregnancies                   2.000
+Glucose                     112.000
+BloodPressure                68.000
+SkinThickness                22.000
+Insulin                      94.000
+BMI                          34.100
+DiabetesPedigreeFunction      0.315
+Age                          26.000
+Outcome                       0.000
+Name: 315, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5492957746478874
+ --- 
+Pregnancies                   3.000
+Glucose                     182.000
+BloodPressure                74.000
+SkinThickness                 0.000
+Insulin                       0.000
+BMI                          30.500
+DiabetesPedigreeFunction      0.345
+Age                          29.000
+Outcome                       1.000
+Name: 317, dtype: float64
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5416666666666666
+ --- 
+Pregnancies                   1.000
+Glucose                     122.000
+BloodPressure                64.000
+SkinThickness                32.000
+Insulin                     156.000
+BMI                          35.100
+DiabetesPedigreeFunction      0.692
+Age                          30.000
+Outcome                       1.000
+Name: 326, dtype: float64
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.547945205479452
+ --- 
+Pregnancies                  10.0
+Glucose                     179.0
+BloodPressure                70.0
+SkinThickness                 0.0
+Insulin                       0.0
+BMI                          35.1
+DiabetesPedigreeFunction      0.2
+Age                          37.0
+Outcome                       0.0
+Name: 327, dtype: float64
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.5405405405405406
+ --- 
+Pregnancies                  12.000
+Glucose                     106.000
+BloodPressure                80.000
+SkinThickness                 0.000
+Insulin                       0.000
+BMI                          23.600
+DiabetesPedigreeFunction      0.137
+Age                          44.000
+Outcome                       0.000
+Name: 333, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5466666666666666
+ --- 
+Pregnancies                   7.000
+Glucose                     178.000
+BloodPressure                84.000
+SkinThickness                 0.000
+Insulin                       0.000
+BMI                          39.900
+DiabetesPedigreeFunction      0.331
+Age                          41.000
+Outcome                       1.000
+Name: 339, dtype: float64
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.5526315789473685
+ --- 
+Pregnancies                   8.000
+Glucose                     126.000
+BloodPressure                88.000
+SkinThickness                36.000
+Insulin                     108.000
+BMI                          38.500
+DiabetesPedigreeFunction      0.349
+Age                          49.000
+Outcome                       0.000
+Name: 345, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5584415584415584
+ --- 
+Pregnancies                  5.000
+Glucose                      0.000
+BloodPressure               80.000
+SkinThickness               32.000
+Insulin                      0.000
+BMI                         41.000
+DiabetesPedigreeFunction     0.346
+Age                         37.000
+Outcome                      1.000
+Name: 349, dtype: float64
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5512820512820513
+ --- 
+Pregnancies                   4.000
+Glucose                     137.000
+BloodPressure                84.000
+SkinThickness                 0.000
+Insulin                       0.000
+BMI                          31.200
+DiabetesPedigreeFunction      0.252
+Age                          30.000
+Outcome                       0.000
+Name: 351, dtype: float64
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.5443037974683544
+ --- 
+Pregnancies                  1.00
+Glucose                     90.00
+BloodPressure               62.00
+SkinThickness               12.00
+Insulin                     43.00
+BMI                         27.20
+DiabetesPedigreeFunction     0.58
+Age                         24.00
+Outcome                      0.00
+Name: 353, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.55
+ --- 
+Pregnancies                   5.000
+Glucose                     103.000
+BloodPressure               108.000
+SkinThickness                37.000
+Insulin                       0.000
+BMI                          39.200
+DiabetesPedigreeFunction      0.305
+Age                          65.000
+Outcome                       0.000
+Name: 362, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5555555555555556
+ --- 
+Pregnancies                   4.00
+Glucose                     146.00
+BloodPressure                78.00
+SkinThickness                 0.00
+Insulin                       0.00
+BMI                          38.50
+DiabetesPedigreeFunction      0.52
+Age                          67.00
+Outcome                       1.00
+Name: 363, dtype: float64
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.5609756097560976
+ --- 
+Pregnancies                   4.000
+Glucose                     147.000
+BloodPressure                74.000
+SkinThickness                25.000
+Insulin                     293.000
+BMI                          34.900
+DiabetesPedigreeFunction      0.385
+Age                          30.000
+Outcome                       0.000
+Name: 364, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5662650602409639
+ --- 
+Pregnancies                   6.000
+Glucose                     124.000
+BloodPressure                72.000
+SkinThickness                 0.000
+Insulin                       0.000
+BMI                          27.600
+DiabetesPedigreeFunction      0.368
+Age                          29.000
+Outcome                       1.000
+Name: 366, dtype: float64
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5595238095238095
+ --- 
+Pregnancies                   3.000
+Glucose                     173.000
+BloodPressure                82.000
+SkinThickness                48.000
+Insulin                     465.000
+BMI                          38.400
+DiabetesPedigreeFunction      2.137
+Age                          25.000
+Outcome                       1.000
+Name: 370, dtype: float64
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.5647058823529412
+ --- 
+Pregnancies                  0.000
+Glucose                     84.000
+BloodPressure               64.000
+SkinThickness               22.000
+Insulin                     66.000
+BMI                         35.800
+DiabetesPedigreeFunction     0.545
+Age                         21.000
+Outcome                      0.000
+Name: 372, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5697674418604651
+ --- 
+Pregnancies                   0.000
+Glucose                     105.000
+BloodPressure                68.000
+SkinThickness                22.000
+Insulin                       0.000
+BMI                          20.000
+DiabetesPedigreeFunction      0.236
+Age                          22.000
+Outcome                       0.000
+Name: 381, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5747126436781609
+ --- 
+Pregnancies                   8.000
+Glucose                     105.000
+BloodPressure               100.000
+SkinThickness                36.000
+Insulin                       0.000
+BMI                          43.300
+DiabetesPedigreeFunction      0.239
+Age                          45.000
+Outcome                       1.000
+Name: 387, dtype: float64
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5681818181818182
+ --- 
+Pregnancies                   3.000
+Glucose                      96.000
+BloodPressure                56.000
+SkinThickness                34.000
+Insulin                     115.000
+BMI                          24.700
+DiabetesPedigreeFunction      0.944
+Age                          39.000
+Outcome                       0.000
+Name: 396, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5730337078651685
+ --- 
+Pregnancies                   3.000
+Glucose                     193.000
+BloodPressure                70.000
+SkinThickness                31.000
+Insulin                       0.000
+BMI                          34.900
+DiabetesPedigreeFunction      0.241
+Age                          25.000
+Outcome                       1.000
+Name: 399, dtype: float64
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5666666666666667
+ --- 
+Pregnancies                   4.000
+Glucose                     115.000
+BloodPressure                72.000
+SkinThickness                 0.000
+Insulin                       0.000
+BMI                          28.900
+DiabetesPedigreeFunction      0.376
+Age                          46.000
+Outcome                       1.000
+Name: 406, dtype: float64
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.5714285714285714
+ --- 
+Pregnancies                   8.000
+Glucose                     197.000
+BloodPressure                74.000
+SkinThickness                 0.000
+Insulin                       0.000
+BMI                          25.900
+DiabetesPedigreeFunction      1.191
+Age                          39.000
+Outcome                       1.000
+Name: 408, dtype: float64
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.5760869565217391
+ --- 
+Pregnancies                   1.000
+Glucose                     143.000
+BloodPressure                74.000
+SkinThickness                22.000
+Insulin                      61.000
+BMI                          26.200
+DiabetesPedigreeFunction      0.256
+Age                          21.000
+Outcome                       0.000
+Name: 413, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5806451612903226
+ --- 
+Pregnancies                  1.000
+Glucose                     97.000
+BloodPressure               68.000
+SkinThickness               21.000
+Insulin                      0.000
+BMI                         27.200
+DiabetesPedigreeFunction     1.095
+Age                         22.000
+Outcome                      0.000
+Name: 416, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5851063829787234
+ --- 
+Pregnancies                   4.000
+Glucose                     144.000
+BloodPressure                82.000
+SkinThickness                32.000
+Insulin                       0.000
+BMI                          38.500
+DiabetesPedigreeFunction      0.554
+Age                          37.000
+Outcome                       1.000
+Name: 417, dtype: float64
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.5894736842105263
+ --- 
+Pregnancies                   1.000
+Glucose                     181.000
+BloodPressure                64.000
+SkinThickness                30.000
+Insulin                     180.000
+BMI                          34.100
+DiabetesPedigreeFunction      0.328
+Age                          38.000
+Outcome                       1.000
+Name: 427, dtype: float64
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.59375
+ --- 
+Pregnancies                   1.000
+Glucose                      95.000
+BloodPressure                82.000
+SkinThickness                25.000
+Insulin                     180.000
+BMI                          35.000
+DiabetesPedigreeFunction      0.233
+Age                          43.000
+Outcome                       1.000
+Name: 429, dtype: float64
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.5876288659793815
+ --- 
+Pregnancies                  2.000
+Glucose                     99.000
+BloodPressure                0.000
+SkinThickness                0.000
+Insulin                      0.000
+BMI                         22.200
+DiabetesPedigreeFunction     0.108
+Age                         23.000
+Outcome                      0.000
+Name: 430, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5918367346938775
+ --- 
+Pregnancies                   0.000
+Glucose                      91.000
+BloodPressure                68.000
+SkinThickness                32.000
+Insulin                     210.000
+BMI                          39.900
+DiabetesPedigreeFunction      0.381
+Age                          25.000
+Outcome                       0.000
+Name: 452, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5959595959595959
+ --- 
+Pregnancies                   9.000
+Glucose                     120.000
+BloodPressure                72.000
+SkinThickness                22.000
+Insulin                      56.000
+BMI                          20.800
+DiabetesPedigreeFunction      0.733
+Age                          48.000
+Outcome                       0.000
+Name: 460, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6
+ --- 
+Pregnancies                  8.000
+Glucose                     74.000
+BloodPressure               70.000
+SkinThickness               40.000
+Insulin                     49.000
+BMI                         35.300
+DiabetesPedigreeFunction     0.705
+Age                         39.000
+Outcome                      0.000
+Name: 462, dtype: float64
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.594059405940594
+ --- 
+Pregnancies                  0.000
+Glucose                     74.000
+BloodPressure               52.000
+SkinThickness               10.000
+Insulin                     36.000
+BMI                         27.800
+DiabetesPedigreeFunction     0.269
+Age                         22.000
+Outcome                      0.000
+Name: 466, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.5980392156862745
+ --- 
+Pregnancies                   0.00
+Glucose                     137.00
+BloodPressure                70.00
+SkinThickness                38.00
+Insulin                       0.00
+BMI                          33.20
+DiabetesPedigreeFunction      0.17
+Age                          22.00
+Outcome                       0.00
+Name: 471, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6019417475728155
+ --- 
+Pregnancies                   3.000
+Glucose                     158.000
+BloodPressure                70.000
+SkinThickness                30.000
+Insulin                     328.000
+BMI                          35.500
+DiabetesPedigreeFunction      0.344
+Age                          35.000
+Outcome                       1.000
+Name: 480, dtype: float64
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.6057692307692307
+ --- 
+Pregnancies                   7.000
+Glucose                     195.000
+BloodPressure                70.000
+SkinThickness                33.000
+Insulin                     145.000
+BMI                          25.100
+DiabetesPedigreeFunction      0.163
+Age                          55.000
+Outcome                       1.000
+Name: 498, dtype: float64
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.6095238095238096
+ --- 
+Pregnancies                  3.000
+Glucose                     96.000
+BloodPressure               78.000
+SkinThickness               39.000
+Insulin                      0.000
+BMI                         37.300
+DiabetesPedigreeFunction     0.238
+Age                         40.000
+Outcome                      0.000
+Name: 504, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6132075471698113
+ --- 
+Pregnancies                  9.0
+Glucose                     91.0
+BloodPressure               68.0
+SkinThickness                0.0
+Insulin                      0.0
+BMI                         24.2
+DiabetesPedigreeFunction     0.2
+Age                         58.0
+Outcome                      0.0
+Name: 512, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.616822429906542
+ --- 
+Pregnancies                  2.000
+Glucose                     91.000
+BloodPressure               62.000
+SkinThickness                0.000
+Insulin                      0.000
+BMI                         27.300
+DiabetesPedigreeFunction     0.525
+Age                         22.000
+Outcome                      0.000
+Name: 513, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6203703703703703
+ --- 
+Pregnancies                   3.000
+Glucose                     163.000
+BloodPressure                70.000
+SkinThickness                18.000
+Insulin                     105.000
+BMI                          31.600
+DiabetesPedigreeFunction      0.268
+Age                          28.000
+Outcome                       1.000
+Name: 515, dtype: float64
+I think : False
+	- Real value: True
+	- Current Accuracy: 0.6146788990825688
+ --- 
+Pregnancies                   6.000
+Glucose                     129.000
+BloodPressure                90.000
+SkinThickness                 7.000
+Insulin                     326.000
+BMI                          19.600
+DiabetesPedigreeFunction      0.582
+Age                          60.000
+Outcome                       0.000
+Name: 519, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6181818181818182
+ --- 
+Pregnancies                  1.000
+Glucose                     97.000
+BloodPressure               64.000
+SkinThickness               19.000
+Insulin                     82.000
+BMI                         18.200
+DiabetesPedigreeFunction     0.299
+Age                         21.000
+Outcome                      0.000
+Name: 526, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6216216216216216
+ --- 
+Pregnancies                   3.000
+Glucose                     129.000
+BloodPressure                92.000
+SkinThickness                49.000
+Insulin                     155.000
+BMI                          36.400
+DiabetesPedigreeFunction      0.968
+Age                          32.000
+Outcome                       1.000
+Name: 539, dtype: float64
+I think : True
+	- Real value: True
+	- Current Accuracy: 0.625
+ --- 
+Pregnancies                   4.00
+Glucose                     189.00
+BloodPressure               110.00
+SkinThickness                31.00
+Insulin                       0.00
+BMI                          28.50
+DiabetesPedigreeFunction      0.68
+Age                          37.00
+Outcome                       0.00
+Name: 549, dtype: float64
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.6194690265486725
+ --- 
+Pregnancies                   1.000
+Glucose                     116.000
+BloodPressure                70.000
+SkinThickness                28.000
+Insulin                       0.000
+BMI                          27.400
+DiabetesPedigreeFunction      0.204
+Age                          21.000
+Outcome                       0.000
+Name: 550, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6228070175438597
+ --- 
+Pregnancies                   1.000
+Glucose                      84.000
+BloodPressure                64.000
+SkinThickness                23.000
+Insulin                     115.000
+BMI                          36.900
+DiabetesPedigreeFunction      0.471
+Age                          28.000
+Outcome                       0.000
+Name: 554, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6260869565217392
+ --- 
+Pregnancies                   8.000
+Glucose                     110.000
+BloodPressure                76.000
+SkinThickness                 0.000
+Insulin                       0.000
+BMI                          27.800
+DiabetesPedigreeFunction      0.237
+Age                          58.000
+Outcome                       0.000
+Name: 557, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6293103448275862
+ --- 
+Pregnancies                  11.000
+Glucose                     103.000
+BloodPressure                68.000
+SkinThickness                40.000
+Insulin                       0.000
+BMI                          46.200
+DiabetesPedigreeFunction      0.126
+Age                          42.000
+Outcome                       0.000
+Name: 558, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.6324786324786325
+ --- 
+Pregnancies                  0.000
+Glucose                     91.000
+BloodPressure               80.000
+SkinThickness                0.000
+Insulin                      0.000
+BMI                         32.400
+DiabetesPedigreeFunction     0.601
+Age                         27.000
+Outcome                      0.000
+Name: 564, dtype: float64
+I think : False
+	- Real value: False
+	- Current Accuracy: 0.635593220338983
+ --- 
+Pregnancies                   6.000
+Glucose                      92.000
+BloodPressure                62.000
+SkinThickness                32.000
+Insulin                     126.000
+BMI                          32.000
+DiabetesPedigreeFunction      0.085
+Age                          46.000
+Outcome                       0.000
+Name: 567, dtype: float64
+I think : True
+	- Real value: False
+	- Current Accuracy: 0.6302521008403361
+ --- 
+Pregnancies                   2.000
+Glucose                      98.000
+BloodPressure                60.000
+SkinThickness                17.000
+Insulin                     120.000
+BMI                          34.700
+DiabetesPedigreeFunction      0.198
+Age                          22.000
+Outcome                       0.000
+Name: 573, dtype: float64

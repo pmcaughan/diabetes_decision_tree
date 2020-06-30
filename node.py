@@ -23,18 +23,18 @@ class Node:
         self.right = right
         self.outcome = outcome
 
-
-    def recursive_create(self, df, height, min_impurity):
+    def recursive_create(self, df, height, min_impurity=0):
         num_positive = len(df[df['Outcome'] == 1])
         num_negative = len(df[df['Outcome'] == 0])
         if(num_positive > num_negative):
             self.outcome = True
         else:
             self.outcome = False
-        if(height == 0 or gini.impurity(df) <= min_impurity):
-            self.left = None
-            self.right = None
-            return
+        # if(height == 0 or gini.impurity(df) <= min_impurity):
+            # self.left = None
+            # self.right = None
+        #     self.condition = lambda x: True
+        #     return
         print("Creating Node")
         print("\tInput df size =", len(df))
         print("\tInput Impurity =", gini.impurity(df))
@@ -48,6 +48,12 @@ class Node:
         print("\tAttribute =",self.attribute)
         print("Node Created.")
         print()
+
+        if(height == 0 or gini.impurity(df) <= min_impurity):
+            self.left = None
+            self.right = None
+            return
+
         if((len(left_df) == 0) or (gini.impurity(left_df) == 0)):
             self.left = None
         else:
