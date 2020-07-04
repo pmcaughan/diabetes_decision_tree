@@ -17,3 +17,5 @@ There are many ways to potentially improve the accuracy of this.
 Right now the only criteria used to split the dataset at each node is the median of each given potential variable.
 By adding more potential criteria it can be made more accurate. 
 Additionally, more could be done to clean up the data before creating the tree, right now its just being fed right in while missing variables and outliers could be accounted for.
+
+Also I would like to try using a random forest to further increase accuracy.
